@@ -1,4 +1,4 @@
-_Last updated: November 23, 2021_
+_Last updated: March 20, 2022_
 
 Our mission is to create a community that fosters the creativity of Blaseball fans who put their love of the game toward research of all kinds. We want everyone in SIBR to be able to focus as much attention as they desire toward the research and fanworks they wish to create and collaborate on. This is impossible to do if you are spending a significant amount of your time dealing with unwelcome behavior.
 
@@ -99,7 +99,7 @@ If you see a violation of our code of conduct, please report it to the Caretaker
 
 Please report all code of conduct violations either via the ModMail bot, pinging the `@Society Caretaker` role directly in a channel, or via email to [caretakers@sibr.dev](mailto:caretakers@sibr.dev). (Caretakers do not respond to code of conduct violations via individual Discord DMs.)
 
-If your report pertains to a Caretaker, contact the Headmistress directly at [iliana@sibr.dev](mailto:iliana@sibr.dev). If your report pertains to iliana, contact honu at [honu@sibr.dev](mailto:honu@sibr.dev).
+If your report pertains to a Caretaker, contact the Headmistress directly at [emily@sibr.dev](mailto:emily@sibr.dev). If your report pertains to Emily, contact honu at [honu@sibr.dev](mailto:honu@sibr.dev).
 
 In your report, include as much of the following as you feel comfortable:
 
