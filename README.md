@@ -1,4 +1,4 @@
-_Last updated: March 20, 2022_
+_Last updated: June 10, 2023_
 
 Our mission is to create a community that fosters the creativity of Blaseball fans who put their love of the game toward research of all kinds. We want everyone in SIBR to be able to focus as much attention as they desire toward the research and fanworks they wish to create and collaborate on. This is impossible to do if you are spending a significant amount of your time dealing with unwelcome behavior.
 
@@ -25,12 +25,10 @@ The following types of behavior are unacceptable in SIBR and constitute code of 
 
 - **Maliciousness towards other people** — deliberately attempting to make others feel bad, name-calling, singling out others for derision or exclusion. For example, telling someone they're not doing real research or that they don't belong in SIBR for not being a programmer.
 - **Maliciousness towards other teams/Blaseball entities** — deliberately attempting to upset others with an emotional connection to Blaseball teams, players, or other entities. This can include discussing "attacking" another team in the election, or celebrating the incineration of a player. SIBR is made up of fans from every Blaseball team, and your actions may be upsetting to those fans. Save these discussions for other communities.
-- **Ruining surprises** — revealing information or spoilers that can ruin the element of surprise of a story. This particularly includes information datamined from Blaseball that hasn't appeared on the website yet (which is permitted in our Story Spoilers channels and similar "opt-in" spaces in other communities, but not on the main Blaseball Discord).
 - **Being especially unpleasant** — for example, if we've received reports from multiple members of annoying, rude, or especially distracting behavior. SIBR is not the place for brilliant jerks to learn how to interact with others like an adult. Don't swear or post mature content, including explicitly violent or sexual content (there is a difference between text saying "Landry Violence was incinerated" and a video of someone on fire).
 
 ### Behavior that jeopardizes SIBR's existence
 
-- **Violating the rules of blaseball.com** — abusing the game through multiple accounts, automated actions, or improper use of authenticated APIs. (If you're unsure, it's best to directly ask an ump via ModMail in the [official Blaseball Discord](https://discord.gg/blaseball).)
 - **Violating Discord's rules** — including the [Terms of Service](https://discord.com/terms) and the [Community Guidelines](https://discord.com/guidelines).
 
 ## Best practices
@@ -47,7 +45,7 @@ SIBR's Code of Conduct isn't just for defining and preventing unacceptable behav
 
 - **Report unacceptable behavior** — if you witness any Code of Conduct violations or repeated social rule violations, report it to the Caretakers. For more details, see Reporting below.
 - **Give feedback** — We can only improve with your criticisms and feedback. If you are willing to give public feedback, please do so in #society-feedback. Otherwise, you can contact the Caretakers via messaging ModMail or emailing [caretakers@sibr.dev](mailto:caretakers@sibr.dev).
-- **Use and follow `tempcheck`** — Carl will react to messages with the word `tempcheck` with three emoji to gauge how participants are feeling about a conversation. ✅ indicates the conversation is fine; ⚠️ indicates that this is a somewhat sensitive subject and to approach with caution; 🛑 is a request to move on to another topic.
+- **Use and follow `tempcheck`** — Our bot aeguir will react to messages with the word `tempcheck` with three emoji to gauge how participants are feeling about a conversation. ✅ indicates the conversation is fine; ⚠️ indicates that this is a somewhat sensitive subject and to approach with caution; 🛑 is a request to move on to another topic.
 
 ### Care for yourselves
 
@@ -60,7 +58,7 @@ SIBR's Code of Conduct isn't just for defining and preventing unacceptable behav
 
 Members are held to the standards outlined in this code of conduct when interacting in our Discord server and on SIBR-operated GitHub repositories.
 
-In addition, the Blaseball community and experience usually extends outside those spaces; SIBR members interact with other fans on the main Blaseball Discord, team sidecords, and social media. Abusive or unwelcoming behavior between SIBR members still has a profound impact on individuals and on the community when it happens beyond our "walls". Caretakers will use our discretion when deciding whether to enforce this code of conduct and potentially remove someone from SIBR after reports of such behavior happening outside of SIBR, taking into account the impact on the individual members involved as well as the impact on the community at large.
+In addition, the Blaseball community and experience usually extends outside those spaces; SIBR members interact with other fans on Blaseball-related Discord servers, subreddits, and social media. Abusive or unwelcoming behavior between SIBR members still has a profound impact on individuals and on the community when it happens beyond our "walls". Caretakers will use our discretion when deciding whether to enforce this code of conduct and potentially remove someone from SIBR after reports of such behavior happening outside of SIBR, taking into account the impact on the individual members involved as well as the impact on the community at large.
 
 When in doubt, please report unacceptable behavior to us. If someone's behavior outside of SIBR makes you feel unsafe in SIBR, that is absolutely relevant and actionable for us.
 
